@@ -1,0 +1,6 @@
+leancloud-sdk
+Flask=0.12.1
+Flask-Bootstrap
+Flask-Script
+Flask-Jinja2
+Werkzeug

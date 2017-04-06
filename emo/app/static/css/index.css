@@ -1,0 +1,35 @@
+.home-header.light {
+    background:#fff
+}
+
+.home-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 0;
+  z-index: 999;
+  min-width: 1280px;
+  text-align: center;
+}
+
+.home-header .home-header-brand {
+  position: absolute;
+  left: 45px;
+  width: 200px;
+  height: 60px;
+  line-height: 60px;
+  text-align: left;
+  font-size: 0;
+}
+
+.home-header.light .home-header-logo {
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFkAAAAYCAMAAACm0aFUAAAAaVBMV…Gm6UKuXPqeippv0ltXtC4MuIjBU3wO5uiFp0uOgN8phD+gfxtdJYbzf4wwAAAAAElFTkSuQmCC);
+    background-size: 89px 24px;
+}
+
+.home-container {
+  width: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
+}
